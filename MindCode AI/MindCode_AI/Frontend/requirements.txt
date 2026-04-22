@@ -1,4 +1,0 @@
-streamlit
-requests
-streamlit-ace
-streamlit-diff-viewer
