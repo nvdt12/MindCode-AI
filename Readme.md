@@ -20,7 +20,7 @@ MindCode-AI is a full-stack web application that leverages the Google Gemini API
 
 ## 🚀 Tech Stack
 
-* **Frontend:** [Streamlit](https://codesense-ai-your-ai-powered-code-reviewer.streamlit.app/)
+* **Frontend:** [Streamlit](https://mindcode-ai.streamlit.app/)
 * **Backend:** [FastAPI](https://mindcode-ai.onrender.com)
 * **AI Model:** [Google Gemini](https://ai.google.dev/)
 * **Database:** [SQLite](https://www.sqlite.org/index.html)
